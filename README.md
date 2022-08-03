@@ -1,4 +1,4 @@
-# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6) - Bloquea Find My Device
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5) - Bloquea Find My Device
 
 ---
 ## Vista rápida
@@ -6,6 +6,7 @@
 - Bloquea Find My Device, permite mayor ahorro de energía.
 - Soporte API 23 o posterior
 - Admite instalaciones de Magisk Live o Custom Recovery
+
 ---
 ## Solución de problemas
 - Línea de comandos para verificar la optimización (con el complemento instalado):
@@ -21,7 +22,7 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 ```
 
 ---
-#Descarga
+# Descarga
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
 ---
@@ -31,17 +32,21 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 - [@Gloeyisk] (https://github.com/gloeyisk/universal-gms-doze) / (GMS Universal Doze).
 - CypherCloud (Por facilitar opciones avanzadas)
 
+---
 
-***ENGLISH VERSION***
+*ENGLISH VERSION*
 
-# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6) - Lock Find My Device
+---
+
+# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5) - Lock Find My Device
 
 ---
 ## Quick View
-- Patch Google Play services app and its background processes in order to use battery optimization.
+- Patches Google Play services app and its background processes in order to use battery optimization.
 - Locks Find My Device, allows more power saving.
 - Support API 23 or later
 - Supports Magisk Live or Custom Recovery installations
+
 ---
 ## Troubleshooting
 - Command line to verify optimization (with plugin installed):
@@ -57,7 +62,7 @@ There is a line written `Whitelist (except idle) system apps:` and if the line `
 ```
 
 ---
-#Download
+# Download
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
 ---

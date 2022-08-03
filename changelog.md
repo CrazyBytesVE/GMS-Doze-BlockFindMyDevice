@@ -1,10 +1,9 @@
----
+## Registro de cambios:
 
-##Registro de cambios:
-
--1.3A/1.3B
+- 1.3A/1.3B
 	- Revertidos algunos cambios que hicieron que el módulo no funcionara correctamente.
--1.2A/1.2B
+	
+- 1.2A/1.2B
     - Se agregó la corrección de notificaciones retrasadas
 
 - 1.1A
@@ -19,3 +18,30 @@
     -Versión inicial
     - Se agregaron opciones de CypherCloud
     - Se agregaron opciones de Gloeyisk
+	
+---
+
+*ENGLISH VERSION*
+
+---
+
+## Change log:
+
+- 1.3A/1.3B
+	- Reversed some changes that caused the module to not work properly.
+	
+- 1.2A/1.2B
+    - Added fix for delayed notifications
+
+- 1.1A
+    - Added /system_ext detection support.
+    - Improved patch detections (Allow to revoke location permissions)
+    - Added Chimera GMS blocking
+  
+- 1.1B
+    - Identical to 1.1A, added "Find my device" blocking
+  
+- 1.0
+    -Initial version
+    - Added CypherCloud options
+    - Gloeyisk options added
