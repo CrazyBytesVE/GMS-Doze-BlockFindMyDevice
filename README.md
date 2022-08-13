@@ -1,13 +1,14 @@
-# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5) - Bloquea Find My Device
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5) - Bloquea 'Find My Device'
 
----
 ## Vista rápida
-- Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería
+- Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería.
 - Bloquea Find My Device, permite mayor ahorro de energía.
-- Soporte API 23 o posterior
-- Admite instalaciones de Magisk Live o Custom Recovery
+- Soporte API 23 o posterior.
+- Admite instalaciones de Magisk Live o Custom Recovery.
 
----
+## Instrucciones
+- Instalar el zip descargado desde el apartado Releases en Magisk y reiniciar.
+
 ## Solución de problemas
 - Línea de comandos para verificar la optimización (con el complemento instalado):
 ```
@@ -21,11 +22,9 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 > dumpsys deviceidle
 ```
 
----
-# Descarga
+## Descarga
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
----
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
 - [@JumbomanXDA](https://github.com/JumbomanXDA) / Custom installation script
@@ -36,18 +35,17 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 
 *ENGLISH VERSION*
 
----
+# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5) - Lock 'Find My Device'
 
-# GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5) - Lock Find My Device
-
----
 ## Quick View
 - Patches Google Play services app and its background processes in order to use battery optimization.
 - Locks Find My Device, allows more power saving.
-- Support API 23 or later
-- Supports Magisk Live or Custom Recovery installations
+- Support API 23 or later.
+- Supports Magisk Live or Custom Recovery installations.
 
----
+## Instructions
+- Install the zip downloaded from the Releases section in Magisk and reboot.
+
 ## Troubleshooting
 - Command line to verify optimization (with plugin installed):
 ```
@@ -61,11 +59,9 @@ There is a line written `Whitelist (except idle) system apps:` and if the line `
 > dumpsys deviceidle
 ```
 
----
-# Download
+## Download
 - https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
 
----
 ## Credits
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
 - [@JumbomanXDA](https://github.com/JumbomanXDA) / Custom installation script
